@@ -99,6 +99,7 @@ To automatically perform CSS linter fixes
 Meet the team [here](./admin/team.md)!
 
 - [@awesomesup](https://github.com/awesomesup)
+- [@GeorgioFe](https://github.com/GeorgioFe)
 - [@ahhorse1](https://github.com/ahhorse1)
 - [@tyler-le](https://github.com/tyler-le)
 - [@tamarasagakova](https://github.com/tamarasagakova)

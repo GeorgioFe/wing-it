@@ -15,6 +15,11 @@ Hello! I am Sup and I am one of the group leaders for Wing It (Team 6). I am a s
 
 <br>
 
+<img src="./branding/team_images/georgio.png" alt="Avatar" width=95px>[Georgio Feghali](https://github.com/awesomesup) <br>
+3rd year Computer Engineering student at the University of California San Diego. Loves to play basketball and to watch Formula 1. Quadrilingual Mediterranean Prodigy.
+
+<br>
+
 <img src="./branding/team_images/jc.png" alt="Avatar" width=75px>[JC Yan](https://github.com/ahhorse1)<br>
 Hi I'm JC, one of the group leads for Wing It. I am a second year Computer Science major. I like planes, a lot. While I hope to continue in the CS field, I also hope to become a pilot.
 
