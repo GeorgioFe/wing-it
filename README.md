@@ -1,4 +1,4 @@
-# CSE 110 - Group 6
+# Wing it - Job Application Tracker
 
 ![logo](./admin/branding/panorama-logo.jpeg)
 
@@ -13,7 +13,7 @@ Wing It is a fast and easy way to track and update job applications.
 
 ## Table of content
 
-- [CSE 110 - Group 6](#cse-110---group-6)
+- [Wing it - Job Application Tracker](#wing-it-job-application-tracker)
   - [Table of content](#table-of-content)
   - [Demo](#demo)
   - [Features](#features)
