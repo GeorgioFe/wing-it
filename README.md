@@ -45,13 +45,13 @@ Wing It is a fast and easy way to track and update job applications.
 Clone the project
 
 ```bash
-  git clone https://github.com/cse110-fa22-group6/cse110-fa22-group6
+  git clone https://github.com/GeorgioFe/wing-it
 ```
 
 Go to the project directory
 
 ```bash
-  cd cse110-fa22-group6
+  cd wing-it
 ```
 
 Install dependencies
