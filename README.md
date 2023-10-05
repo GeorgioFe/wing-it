@@ -36,10 +36,6 @@ Wing It is a fast and easy way to track and update job applications.
 - Full CRUD
 - Sorting Capability
 
-## Documentation
-
-<https://cse110-fa22-group6.github.io/cse110-fa22-group6/specs/documentation/index.html>
-
 ## Run Locally
 
 Clone the project
