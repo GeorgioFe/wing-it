@@ -17,7 +17,6 @@ Wing It is a fast and easy way to track and update job applications.
   - [Table of content](#table-of-content)
   - [Demo](#demo)
   - [Features](#features)
-  - [Documentation](#documentation)
   - [Run Locally](#run-locally)
   - [Running Tests](#running-tests)
   - [Linting and Validation](#linting-and-validation)
